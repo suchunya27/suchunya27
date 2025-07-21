@@ -1,7 +1,32 @@
 ## Hello! I'm Suchunya
 
-🎓 Math graduate | Aspiring Data Analyst  
-📊 Excel, SQL, Power BI, Python (basic)  
-📁 Building data projects to develop skills
+🎓 A fresh graduate in Mathematics from Mahidol University  
+📊 Aspiring Data Analyst with a passion for turning raw data into meaningful insights  
+🔍 Interested in Data Analytics, R&D, and using data to drive real-world decisions  
+📁 Currently building hands-on projects using Excel, SQL, and Power BI
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/suchunya-suwanwathana-094775370)
+---
+
+### 💼 Skills
+- Microsoft Excel (Pivot Tables, Dashboards)
+- SQL (Data Filtering, Aggregation, Joins)
+- Power BI (Visualization & Reporting)
+- Basic Python (pandas, matplotlib – beginner level)
+- Problem-solving and logical thinking from strong math background
+- Programming Languages (Python (pandas, numpy, matplotlib, seaborn), R, SQL)
+- Statistical Methods (Descriptive & Inferential Statistics, Probability Distributions, Hypothesis Testing, ANOVA)
+- Predictive Modeling (Linear Regression and Logistic Regression, Clustering (K-Means), Time Series Forecasting (ARIMA))
+- Sampling Techniques (Simple Random Sampling, Stratified Sampling, Systematic Sampling)
+- Data Mining (Data Preprocessing, Pattern Discovery, Classification & Association Rules)
+- Data Visualization (Excel (Pivot Tables, Charts))
+- Data Management (Data Cleaning, Data Wrangling, SQL Querying)
+- Microsoft Office (Word, Excel, PowerPoint, Outlook)
+
+---
+
+### 📂 Projects:
+- 
+
+### 📫 Let’s connect!
+- [LinkedIn] (https://www.linkedin.com/in/suchunya-suwanwathana-094775370)
+- [Email] (suchunya.suw@gmail.com)
