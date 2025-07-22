@@ -1,4 +1,4 @@
-## Hello! I'm Suchunya Suwanwathana
+## Hello! I'm Suchunya Suwanwathana 👋🏻
 
 🎓 A fresh graduate in Mathematics from Mahidol University  
 📊 Aspiring Data Analyst with a passion for turning raw data into meaningful insights  
@@ -28,6 +28,8 @@
 - The Association Between C-Reactive Protein Levels and Acute Myocardial Infarction in Diabetic Patients: A Comparative Analysis Using Logistic Regression and k-Nearest Neighbors
 - Study of Factors Affecting Marital Status and Comparison of k-NN, classification Tree and Naïve Bayes Methods
 - Multiple Regression Analysis on Factors Affecting Gold Prices in Thailand
+
+---
 
 ### 📫 Let’s connect!
 - [LinkedIn] (https://www.linkedin.com/in/suchunya-suwanwathana-094775370)
